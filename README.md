@@ -163,3 +163,5 @@ Show computer what it needs to do once, and it will do it over and over again wi
 
 - [ ] Allow Browser Use to use the workflows as MCP tools
 - [ ] Use workflows as website caching layer
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/browser-use/workflow-use)
